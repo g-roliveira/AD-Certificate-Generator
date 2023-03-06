@@ -1,8 +1,6 @@
 # Script para gerar certificados para usuários do Active Directory
 
-Este é um script PowerShell que gera certificados para usuários específicos do Active Directory.
-
-## Principais funções de cada comando
+## Principais funções de cada comando por bloco.
 
 ### Função `Get-NewCert`
 
