@@ -40,10 +40,10 @@ As variáveis de configuração do script são definidas no início do script. O
 
 Define o nome do seu domínio, split do sufixo, template e ThumbPrit do Certificado a ser usado.
 ```powershell
-$DomainName = "4labs.local"
+$DomainName = "contoso.com"
 $DomainSuffixSplit = $DomainName.Split(".")[0]
-$TemplateName = "4labsUser"
-$UserCertThumbPrint = "A9F0A26A3490340DDA7ABDFC7B1BC896AD7DA13A"
+$TemplateName = "contosoUser"
+$UserCertThumbPrint = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 ```
 Define o caminho para salvar os certificados e senha
 ```powershell
