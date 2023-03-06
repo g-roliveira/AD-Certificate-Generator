@@ -1,6 +1,6 @@
 # Script para gerar certificados para usuários do Active Directory
 
-## Principais funções de cada comando por bloco.
+## Principais funções de cada bloco.
 
 ### Função `Get-NewCert`
 
